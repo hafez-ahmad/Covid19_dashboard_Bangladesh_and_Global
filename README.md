@@ -11,7 +11,7 @@ https://systems.jhu.edu/
 * Basic knowledge of creating python virtual environment. Recommended using [pyenv](https://github.com/pyenv/pyenv) or [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 ### Tools:
-* [VS Code](https://code.visualstudio.com/download), [Pycharm Community](https://www.jetbrains.com/pycharm/download) or your personal choice of IDE
+* [VS Code](https://code.visualstudio.com/download)
 * Python packages required as stated in `requirements.txt`
 * Sign up [Mapbox](https://www.mapbox.com/)
 
