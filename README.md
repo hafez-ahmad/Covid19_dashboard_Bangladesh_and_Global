@@ -7,8 +7,8 @@ All tools stated here are free.
 #Check  out [Covid19_dashboard_Bangladesh_and_Globalperspective](https://covid19dashboardbangladesh.herokuapp.com/?fbclid=IwAR3FuWDDJOaKbKVTELxwD-Z6yYPAGWPSTiij-fGttfC6cedLsJpD-5mYArg) 
 
 wrote:
-http://github.com - automatic!
-[Screenshot](https://github.com/hafez-ahmad/Covid19_dashboard_Bangladesh_and_Global/blob/master/dashboard.PNG)
+
+![Screenshot](https://github.com/hafez-ahmad/Covid19_dashboard_Bangladesh_and_Global/blob/master/dashboard.PNG)
 
 ### Data source provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
 https://systems.jhu.edu/
