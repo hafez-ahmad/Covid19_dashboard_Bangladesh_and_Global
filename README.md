@@ -1,11 +1,11 @@
 # Covid19_dashboard_Bangladesh_and_Global Perspective
 # Covid19 Dashboard Web App using Python (Plotly Dash)
-                                               ###Create your own dashboard web app with free resources using python only
+#Create your own dashboard web app with free resources using python only
 
 #All tools stated here are free.
 
 ### Deployed in the herokuapp :
-#Check  out [Covid19_dashboard_Bangladesh_and_Global perspective](https://covid19dashboardbangladesh.herokuapp.com/?fbclid=IwAR3FuWDDJOaKbKVTELxwD-Z6yYPAGWPSTiij-fGttfC6cedLsJpD-5mYArg) 
+*Check  out [Covid19_dashboard_Bangladesh_and_Global perspective](https://covid19dashboardbangladesh.herokuapp.com/?fbclid=IwAR3FuWDDJOaKbKVTELxwD-Z6yYPAGWPSTiij-fGttfC6cedLsJpD-5mYArg) 
 
 
 ### Covid19_dashboard Screenshot:
@@ -19,7 +19,7 @@
 
 ### Tools:
 * [VS Code](https://code.visualstudio.com/download)
-* Python packages required as stated in `requirements.txt`
+* Python packages required as stated in [requirements.txt](https://github.com/hafez-ahmad/Covid19_dashboard_Bangladesh_and_Global/blob/master/requirements.txt)
 * Sign up [Mapbox](https://www.mapbox.com/)
 
 ## Version 1.0 Dashboard (Source Code - `covid19.py` included)
