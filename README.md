@@ -3,6 +3,9 @@
 Create your own dashboard web app with free resources using python only
 All tools stated here are free.
 
+### Deployed in the herokuapp :
+#Check  out [Covid19_dashboard_Bangladesh_and_Globalperspective](https://covid19dashboardbangladesh.herokuapp.com/?fbclid=IwAR3FuWDDJOaKbKVTELxwD-Z6yYPAGWPSTiij-fGttfC6cedLsJpD-5mYArg) 
+
 ### Data source provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
 https://systems.jhu.edu/
 
