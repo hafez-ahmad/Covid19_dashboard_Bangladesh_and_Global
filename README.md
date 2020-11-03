@@ -24,6 +24,6 @@
 
 ## Version 1.0 Dashboard (Source Code - `covid19.py` included)
 Comments are included in the source code `covid19.py` to assist you.  
-
+## this is open source , this cannot make change for commerical porposes. use of this project in commerical is strickly probihited.
 
 
